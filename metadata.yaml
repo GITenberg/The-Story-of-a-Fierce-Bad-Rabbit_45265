@@ -1,0 +1,34 @@
+_repo: The-Story-of-a-Fierce-Bad-Rabbit_45265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45265-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: The fierce bad rabbit takes away the nice gentle rabbit's carrot nuts
+  with the other squirrels. But, a hunter with a gun takes the fierce bad rabbit's
+  tail and whiskers.
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disorderly conduct -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Rabbits -- Juvenile fiction'
+title: The Story of a Fierce Bad Rabbit
+url: http://www.gutenberg.org/ebooks/45265
